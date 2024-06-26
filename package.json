@@ -1,0 +1,28 @@
+{
+  "name": "socketio",
+  "version": "1.0.0",
+  "description": "socket io tutorial",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeSemenov/socket.io.git"
+  },
+  "keywords": [
+    "socket",
+    "io"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeorgeSemenov/socket.io/issues"
+  },
+  "homepage": "https://github.com/GeorgeSemenov/socket.io#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
